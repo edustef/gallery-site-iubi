@@ -1,5 +1,6 @@
 backend:
-  name: gallery-site-iubi
+  name: github
+  repo: edustef/gallery-site-iubi
 
 media_folder: static/assets
 public_folder: /assets
